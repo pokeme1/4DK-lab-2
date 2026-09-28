@@ -30,7 +30,7 @@
 
 #define ARRIVAL_RATE_LIST 200,300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800
 #define PACKET_LENGTH 500 /* bits */
-#define LINK_BIT_RATE 1e6 /* bits per second */
+#define LINK_BIT_RATE 1e6 /* bits per second *//////
 #define RUNLENGTH 10e4 /* packets */
 
 /* Comma separated list of random seeds to run. */
